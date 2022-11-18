@@ -5908,6 +5908,11 @@ svgo@^2.7.0:
     picocolors "^1.0.0"
     stable "^0.1.8"
 
+sylvester-es6@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/sylvester-es6/-/sylvester-es6-0.0.2.tgz#3e65178a5ae3cc3f419542d9cd1ad55435912abf"
+  integrity sha512-oYIjl7rrZiXMHaL0KVyaBG4sW8aY1ks9hVYhtxjP8a70vdlH2icvh2reat/ryHP/FFvNQMhOyt/3LshBpN0kSw==
+
 table@^6.0.9:
   version "6.8.1"
   resolved "https://registry.npmmirror.com/table/-/table-6.8.1.tgz#ea2b71359fe03b017a5fbc296204471158080bdf"
